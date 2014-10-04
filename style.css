@@ -1,0 +1,52 @@
+﻿/* CSS Document */
+*{padding:0px; margin:0px;}
+body{padding:0px; margin:0px; font-size:12px; font-family:"微软雅黑", "宋体", Arial, Verdana, Helvetica, sans-serif, "Arial Unicode MS"; color:#999;}
+h1,h2,h3,h4,h5,h6,ul,li,dl,dt,dd,form,img,p{margin:0 auto; padding:0; border:none; list-style-type:none;}
+table{border-collapse: collapse;}
+a{color:#0088cc; text-decoration:none; cursor:pointer;}
+a:hover{text-decoration: underline;}
+.l{float:left;}
+.r{float:right;}
+em{font-style:normal;}
+
+/*header*/
+.head{width:1000px; height:105px; margin:0 auto;}
+.head h1{float:left;}
+.head h1 a{margin:21px 0 0 60px; height:65px; width:180px; overflow:hidden; display:block; background:url(./logo.png) no-repeat; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/logo.png'); _background-image:none;}
+
+/*center*/
+.centerbg{background:#6fcb78 url(./body_bg.jpg) no-repeat center; width:100%; height:665px; border-top:1px solid #2ecc71;}
+.center{width:1000px; height:630px; margin:0 auto; overflow:hidden; background:url(./banner.png) no-repeat; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/banner.png'); _background-image:none; position:relative;}
+.center .writing{position:absolute; left:405px; top:205px; color:#fff;}
+.center .writing p{font-size:16px; line-height:30px; margin-bottom:20px; width:315px; overflow:hidden; *float:left;}
+.center .writing a{font-size:20px; color:#2ecc71; background:url(./btn.png) no-repeat; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/btn_01.png'); _background-image:none; width:276px; line-height:50px; text-align:center; margin:30px 0 20px 0; display:block; text-decoration:none;}
+.center .writing span{font-size:14px; background:url(./btn.png) no-repeat 0 -80px; _filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='images/btn_02.png'); _background-image:none; width:276px; line-height:26px; text-align:center; display:block;}
+.foot_infor{width:900px; line-height:50px; color:#666; font-size:14px; margin:0 auto;font-size:14px; text-align:center; clear:both;}
+.foot_infor a{color: #25AE5F;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
